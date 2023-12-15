@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello
+I'm currently a student who's learning JavaScript, PHP and Python and wants to learn Godot game engine.
 
 <!--
 **Codynator/Codynator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
