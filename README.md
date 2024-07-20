@@ -1,5 +1,5 @@
 ### Hello
-I'm currently a student who's learning JavaScript, PHP and Python and wants to learn Godot game engine.
+I'm currently a student who's currently focusing on Python and C. I also have exprience with JavaScript, PHP and SQL.
 
 <!--
 **Codynator/Codynator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
