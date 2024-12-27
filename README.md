@@ -1,17 +1,11 @@
-### Hello
-I'm currently a student who's currently focusing on Python and C. I also have exprience with JavaScript, PHP and SQL.
+## Hello!
+I'm currently a student who's currently focusing on Python and C++. I also have exprience with JavaScript, PHP and SQL.  
+My main operating system is Linux (Kubuntu) so my programs sometimes don't support Windows. 
 
-<!--
-**Codynator/Codynator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My main interests are:**
+- backend (Django, Apache Server, MariaDB);
+- desktop applications (Python and C++);
+- embedded programming (Arduino);
+- Linux environment. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Open source is ❤️
